@@ -79,4 +79,6 @@ Additional Features: Mouse ID, Genotype, Treatment.
 
 
 **My part in the project:**
+
+
 I had worked in a team during this project. My part in the project was to perform feature selection and model training. I had utilized Random Forest Classifier Feature Importance and SelectKBest with F-test for selecting the best predictors. After performing these steps we used median to find out the threshold point for the predictors. Only the predictors with value more than threshold points were to be selected. After finding the predictors from each Feature Importance Technique performed, then used the common predictors that were found. Then I had worked with various Machine Learning models such as Random Forest Classifier, Decision Tree Classifier and XGBoost Classifier. Only Random Forest Classifier and XGBoost Classifier were included in the final code. I had also performed hypertuning to find out about the best params using which we can optimize the Machine Learning models for optimized results.
